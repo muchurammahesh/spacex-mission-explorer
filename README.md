@@ -61,80 +61,10 @@ Designed with *modern UI/UX*, responsive design, accessibility, and performance 
 ```
 
 spacex-mission-explorer/
-├── node_modules/
-├── public/
-│   └── vite.svg
-├── src/
-│   ├── _tests_/                # Test files
-│   │   ├── LaunchCard.test.jsx
-│   │   ├── LaunchDetails.test.jsx
-│   │   └── LaunchesList.test.jsx 
-│   │
-│   ├── api/
-│   │   └── spacex.js             # API calls
-│   │
-│   ├── assets/
-│   │   └── react.svg
-│   │
-│   ├── components/               # Reusable UI components
-│   │   ├── ui/
-│   │   │   ├── Badge.jsx
-│   │   │   ├── Button.jsx
-│   │   │   └── index.js
-│   │   │
-│   │   ├── EmptyState.jsx
-│   │   ├── FavoriteButton.jsx
-│   │   ├── FilterBar.jsx
-│   │   ├── LaunchCard.jsx
-│   │   ├── LoadingSkeleton.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── Pagination.jsx
-│   │   └── ThemeToggle.jsx
-│   │
-│   ├── context/
-│   │   └── LaunchesProvider.jsx
-│   │
-│   ├── hooks/
-│   │   └── useDebounce.js
-│   │
-│   ├── lib/
-│   │   └── utils.js
-│   │
-│   ├── pages/
-│   │   ├── LaunchDetails.jsx
-│   │   └── LaunchesList.jsx
-│   │
-│   ├── App.jsx
-│   ├── index.css
-│   ├── main.js
-│   └── setupTests.js
-│
-├── .gitignore
-├── components.json
-├── eslint.config.js
-├── index.html
-├── package-lock.json
-├── package.json
-├── postcss.config.mjs
-├── README.md
-├── tailwind.config.mjs
-├── tsconfig.json
-└── vite.config.mjs
-
-````
-
-=======
->>>>>>> baf429c (Updated Spacex Mission Explorer Application)
----
-
-## 📂 Project Structure  
-
-```bash
-spacex-mission-explorer/
 ├── public/                  # Static assets
 │   └── vite.svg
 ├── src/
-│   ├── tests/             # Test files
+│   ├── tests/               # Test files
 │   │   ├── LaunchCard.test.jsx
 │   │   ├── LaunchDetails.test.jsx
 │   │   └── LaunchesList.test.jsx 
@@ -173,7 +103,6 @@ spacex-mission-explorer/
 ├── package.json
 ├── vite.config.mjs
 └── tailwind.config.mjs
-
 
 ---
 
@@ -219,44 +148,35 @@ Mission details modal rendering
 ---
 
 
-## 🌍 Deployment
+## 🌍 Deployment  
+The project is deployed on **Netlify**:  
+🔗 [Live App](https://spacex-mission-explorer-mahesh-m.netlify.app/)  
 
-The project is deployed on **Netlify**:
-🔗 [Live App](https://spacex-mission-explorer-mahesh-m.netlify.app/)
+---
 
+## 📌 GitHub Repository  
+🔗 [spacex-mission-explorer (GitHub)](https://github.com/muchurammahesh/spacex-mission-explorer)  
 
+---
 
-## 📌 GitHub Repository
+## 📖 Assignment Context  
+This project was built as part of the **Atmosly React Intern Assignment**, focusing on:  
 
-🔗 [spacex-mission-explorer (GitHub)](https://github.com/muchurammahesh/spacex-mission-explorer)
+- ⚛️ Component-driven development  
+- 🚀 API integration with SpaceX API  
+- 🗂️ State management with Context API  
+- ♿ Accessibility & responsiveness  
+- ✅ Testing with Vitest + RTL  
 
+---
 
+## 👤 Author  
 
+**Muchuram Mahesh**  
 
-📖 Assignment Context
-
-This project was built as part of the Atmosly React Intern Assignment, focusing on:
-
-Component-driven development
-
-API integration with SpaceX API
-
-State management with Context API
-
-Accessibility & responsiveness
-
-Testing with Vitest + RTL
-
-
-## 👤 Author
-
-**Muchuram Mahesh**
-
-📧 [muchurammahesh0@gmail.com]  
-
-🌐 [Live Demo](https://spacex-mission-explorer-mahesh-m.netlify.app/)
-
-💻 [GitHub](https://github.com/muchurammahesh/spacex-mission-explorer)
+📧 [muchurammahesh0@gmail.com](mailto:muchurammahesh0@gmail.com)  
+🌐 [Live Demo](https://spacex-mission-explorer-mahesh-m.netlify.app/)  
+💻 [GitHub Profile](https://github.com/muchurammahesh)  
 
 
 
