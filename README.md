@@ -53,7 +53,7 @@ Designed with *modern UI/UX*, responsive design, accessibility, and performance 
 | ☁ Netlify | <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify" /> |
 | 🚀 SpaceX API v4 | <img src="https://img.shields.io/badge/SpaceX%20API-v4-blue?logo=spacex&logoColor=white" alt="SpaceX API" /> |
 
-<<<<<<< HEAD
+
 
 ## 📂 Project Structure  
 
@@ -144,20 +144,6 @@ Favorites toggle & persistence
 Mission details modal rendering
 
 
----
-
-
-## 🌍 Deployment  
-The project is deployed on **Netlify**:  
-[Live App](https://spacex-mission-explorer-mahesh-m.netlify.app/)  
-
----
-
-## 📌 GitHub Repository  
-[spacex-mission-explorer (GitHub)](https://github.com/muchurammahesh/spacex-mission-explorer)  
-
----
-
 ## 📖 Assignment Context  
 This project was built as part of the **Atmosly React Intern Assignment**, focusing on:  
 
@@ -168,14 +154,24 @@ This project was built as part of the **Atmosly React Intern Assignment**, focus
 - Testing with Vitest + RTL  
 
 ---
+## 🌍 Deployment  
+The project is deployed on **Netlify**:  
+👉 **[Live App](https://spacex-mission-explorer-mahesh-m.netlify.app/)**  
+
+---
+
+## 📌 GitHub Repository  
+👉 **[spacex-mission-explorer](https://github.com/muchurammahesh/spacex-mission-explorer)**  
+
+---
 
 ## 👤 Author  
-
 **Muchuram Mahesh**  
 
-[Email](mailto:muchurammahesh0@gmail.com)  
-[Live Demo](https://spacex-mission-explorer-mahesh-m.netlify.app/)  
-[GitHub Profile](https://github.com/muchurammahesh)  
+📧 **[Email](mailto:muchurammahesh0@gmail.com)**  
+🌐 **[Live Demo](https://spacex-mission-explorer-mahesh-m.netlify.app/)**  
+💻 **[GitHub Profile](https://github.com/muchurammahesh)**  
+
 
 
 
