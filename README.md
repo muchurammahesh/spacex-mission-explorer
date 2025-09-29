@@ -2,7 +2,6 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/muchurammahesh/spacex-mission-explorer?style=flat&logo=github)](https://github.com/muchurammahesh/spacex-mission-explorer/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/muchurammahesh/spacex-mission-explorer?style=flat&logo=github)](https://github.com/muchurammahesh/spacex-mission-explorer/network/members)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_BADGE/deploy-status)](https://spacex-mission-explorer-mahesh.netlify.app)
 
 A *React + Vite* web application to explore *SpaceX missions* with powerful *search, filters, favorites, and detailed mission views*.  
