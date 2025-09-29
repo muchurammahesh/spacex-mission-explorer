@@ -147,5 +147,4 @@ This project was built as part of the **Atmosly React Intern Assignment**, focus
 
 ```
 
----
 
