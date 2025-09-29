@@ -1,4 +1,3 @@
-
 import React from "react";
 
 export default function LoadingSkeleton({ count = 6 }) {
@@ -7,11 +6,6 @@ export default function LoadingSkeleton({ count = 6 }) {
       {Array.from({ length: count }).map((_, i) => (
         <div
           key={i}
-<<<<<<< HEAD
-          data-testid="loading-skeleton"   
-          className="p-4 bg-gray-200 dark:bg-gray-800 rounded-2xl animate-pulse h-32 w-64"
-        ></div>
-=======
           data-testid="loading-skeleton"
           className="w-full max-w-md bg-white dark:bg-gray-900 shadow-lg rounded-2xl p-6 flex flex-col justify-between animate-pulse"
         >
@@ -33,7 +27,6 @@ export default function LoadingSkeleton({ count = 6 }) {
           {/* Footer button */}
           <div className="mt-8 h-10 w-28 mx-auto bg-gray-200 dark:bg-gray-700 rounded-lg"></div>
         </div>
->>>>>>> baf429c (Updated Spacex Mission Explorer Application)
       ))}
     </div>
   );
