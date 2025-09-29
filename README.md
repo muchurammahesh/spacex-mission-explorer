@@ -149,23 +149,23 @@ Mission details modal rendering
 
 ## 🌍 Deployment  
 The project is deployed on **Netlify**:  
-🔗 [Live App](https://spacex-mission-explorer-mahesh-m.netlify.app/)  
+[Live App](https://spacex-mission-explorer-mahesh-m.netlify.app/)  
 
 ---
 
 ## 📌 GitHub Repository  
-🔗 [spacex-mission-explorer (GitHub)](https://github.com/muchurammahesh/spacex-mission-explorer)  
+[spacex-mission-explorer (GitHub)](https://github.com/muchurammahesh/spacex-mission-explorer)  
 
 ---
 
 ## 📖 Assignment Context  
 This project was built as part of the **Atmosly React Intern Assignment**, focusing on:  
 
-- ⚛️ Component-driven development  
-- 🚀 API integration with SpaceX API  
-- 🗂️ State management with Context API  
-- ♿ Accessibility & responsiveness  
-- ✅ Testing with Vitest + RTL  
+- Component-driven development  
+- API integration with SpaceX API  
+- State management with Context API  
+- Accessibility & responsiveness  
+- Testing with Vitest + RTL  
 
 ---
 
@@ -173,9 +173,9 @@ This project was built as part of the **Atmosly React Intern Assignment**, focus
 
 **Muchuram Mahesh**  
 
-📧 [muchurammahesh0@gmail.com](mailto:muchurammahesh0@gmail.com)  
-🌐 [Live Demo](https://spacex-mission-explorer-mahesh-m.netlify.app/)  
-💻 [GitHub Profile](https://github.com/muchurammahesh)  
+[Email](mailto:muchurammahesh0@gmail.com)  
+[Live Demo](https://spacex-mission-explorer-mahesh-m.netlify.app/)  
+[GitHub Profile](https://github.com/muchurammahesh)  
 
 
 
