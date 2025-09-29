@@ -40,6 +40,10 @@ Designed with *modern UI/UX*, responsive design, accessibility, and performance 
 
 ---
 
+Got it ✅ — here’s the **final cleaned README section** in a **direct copy-paste format**.
+You can replace everything from **Project Structure downwards** in your GitHub `README.md` with this:
+
+````md
 ## 📂 Project Structure  
 
 ```bash
@@ -64,9 +68,13 @@ spacex-mission-explorer/
 ├── package.json
 ├── vite.config.mjs
 └── tailwind.config.mjs
-⚡ Getting Started
-bash
-Copy code
+````
+
+---
+
+## ⚡ Getting Started
+
+```bash
 # 1️⃣ Clone repository
 git clone https://github.com/muchurammahesh/spacex-mission-explorer.git
 cd spacex-mission-explorer
@@ -85,38 +93,59 @@ npm run build
 
 # 6️⃣ Preview build locally
 npm run preview
-✅ Testing
-Run unit tests with:
-
-bash
-Copy code
-npm run test
-Coverage includes: launch list rendering & filtering, favorites toggle & persistence, and mission details modal.
-
-## 📖 Assignment Context  
-This project was built as part of the **Atmosly React Intern Assignment**, focusing on:  
-
-- Component-driven development  
-- API integration with SpaceX API  
-- State management with Context API  
-- Accessibility & responsiveness  
-- Testing with Vitest + RTL  
+```
 
 ---
 
-## 🌍 Deployment  
+## ✅ Testing
+
+Run unit tests with:
+
+```bash
+npm run test
+```
+
+Coverage includes:
+
+* Launch list rendering & filtering
+* Favorites toggle & persistence
+* Mission details modal
+
+---
+
+## 📖 Assignment Context
+
+This project was built as part of the **Atmosly React Intern Assignment**, focusing on:
+
+* Component-driven development
+* API integration with SpaceX API
+* State management with Context API
+* Accessibility & responsiveness
+* Testing with Vitest + RTL
+
+---
+
+## 🌍 Deployment
+
 🔗 [**Live App**](https://spacex-mission-explorer-mahesh-m.netlify.app/)
 
 ---
 
-## 📌 GitHub Repository  
+## 📌 GitHub Repository
+
 🔗 [**spacex-mission-explorer**](https://github.com/muchurammahesh/spacex-mission-explorer)
 
 ---
 
-## 👤 Author  
-**Muchuram Mahesh**  
+## 👤 Author
 
-📧 [**Email**](mailto:muchurammahesh0@gmail.com)  
-🌐 [**Live Demo**](https://spacex-mission-explorer-mahesh-m.netlify.app/)  
+**Muchuram Mahesh**
+
+📧 [**Email**](mailto:muchurammahesh0@gmail.com)
+🌐 [**Live Demo**](https://spacex-mission-explorer-mahesh-m.netlify.app/)
 💻 [**GitHub Profile**](https://github.com/muchurammahesh)
+
+```
+
+---
+
