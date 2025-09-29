@@ -40,13 +40,12 @@ Designed with *modern UI/UX*, responsive design, accessibility, and performance 
 
 ---
 
-Got it ✅ — here’s the **final cleaned README section** in a **direct copy-paste format**.
-You can replace everything from **Project Structure downwards** in your GitHub `README.md` with this:
+
 
 ````md
 ## 📂 Project Structure  
 
-```bash
+```
 spacex-mission-explorer/
 ├── public/
 │   └── vite.svg
